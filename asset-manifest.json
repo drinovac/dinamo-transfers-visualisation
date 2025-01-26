@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/dinamo-transfers-visualisation/static/css/main.e6c13ad2.css",
+    "main.js": "/dinamo-transfers-visualisation/static/js/main.aa4d09ce.js",
+    "static/js/453.f279493d.chunk.js": "/dinamo-transfers-visualisation/static/js/453.f279493d.chunk.js",
+    "index.html": "/dinamo-transfers-visualisation/index.html",
+    "main.e6c13ad2.css.map": "/dinamo-transfers-visualisation/static/css/main.e6c13ad2.css.map",
+    "main.aa4d09ce.js.map": "/dinamo-transfers-visualisation/static/js/main.aa4d09ce.js.map",
+    "453.f279493d.chunk.js.map": "/dinamo-transfers-visualisation/static/js/453.f279493d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.aa4d09ce.js"
+  ]
+}
